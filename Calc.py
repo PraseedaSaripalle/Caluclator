@@ -1,4 +1,4 @@
-# Program make a simple calculator
+# Program make a simple calculator Siddharth 3rd Team Member
 
 # This function adds two numbers
 def add(x, y):
@@ -16,6 +16,7 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
 
+# Program make a simple calculator Print Statements
 
 print("Select operation.")
 print("1.Add")
