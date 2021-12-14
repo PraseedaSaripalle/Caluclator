@@ -1,4 +1,4 @@
-# Program make a simple calculator
+# Program make a simple calculator made by Praseeda Saripalle who is Team Member
 
 # This function adds two numbers
 def add(x, y):
